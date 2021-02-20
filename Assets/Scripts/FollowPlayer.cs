@@ -12,11 +12,12 @@ public class FollowPlayer : MonoBehaviour
 	{
 		transform.position = player.position + offset;
 	}
-	
-	*/
+
+	/*
 	public void ()
 	{
 		image.GetComponent<Image>().color = new Color32(255,255,225,100);
+		image.GetComponent<Image>().color = new Color32(255,255,225,100);
 	}
-	/*
+	*/
 }
